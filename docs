@@ -1,0 +1,17 @@
+maps details:----
+blmp.misc@gmail.com
+blmp12345
+
+api key:- AIzaSyCWBzQcRLFHTt4OWZ_SJQ6dgpdaocsxW5s
+
+templatecare.com:2083
+UserName: templatecare
+PassWord: sRK!fHno&rdG
+
+
+templatecare.com:2087
+UserName: root
+PassWord: v3qsUzUm
+
+
+ALTER TABLE `res_menu_items` ADD `image` TEXT NULL DEFAULT NULL AFTER `vendor_id`; 
