@@ -8,7 +8,7 @@
     "@sweetalert2/themes": "^3.2.0",
     "availity-reactstrap-validation": "^2.6.1",
     "axios": "^0.19.2",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "firebase": "^7.17.1",
     "formik": "^2.1.4",
