@@ -16,7 +16,7 @@
     "howler": "^2.2.0",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.5.6",
-    "moment": "2.26.0",
+    "moment": "2.29.4",
     "mousetrap": "^1.6.5",
     "prop-types": "^15.7.2",
     "rc-slider": "^9.3.0",
